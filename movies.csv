@@ -1,0 +1,1683 @@
+item_id,movie_name,release_timestamp
+1,Toy Story,01-Jan-1995
+2,GoldenEye,01-Jan-1995
+3,Four Rooms,01-Jan-1995
+4,Get Shorty,01-Jan-1995
+5,Copycat,01-Jan-1995
+6,Shanghai Triad (Yao a yao yao dao waipo qiao),01-Jan-1995
+7,Twelve Monkeys,01-Jan-1995
+8,Babe,01-Jan-1995
+9,Dead Man Walking,01-Jan-1995
+10,Richard III,22-Jan-1996
+11,Seven (Se7en),01-Jan-1995
+12,"Usual Suspects, The",14-Aug-1995
+13,Mighty Aphrodite,30-Oct-1995
+14,"Postino, Il",01-Jan-1994
+15,Mr. Holland's Opus,29-Jan-1996
+16,French Twist (Gazon maudit),01-Jan-1995
+17,From Dusk Till Dawn,05-Feb-1996
+18,"White Balloon, The",01-Jan-1995
+19,Antonia's Line,01-Jan-1995
+20,Angels and Insects,01-Jan-1995
+21,Muppet Treasure Island,16-Feb-1996
+22,Braveheart,16-Feb-1996
+23,Taxi Driver,16-Feb-1996
+24,Rumble in the Bronx,23-Feb-1996
+25,"Birdcage, The",08-Mar-1996
+26,"Brothers McMullen, The",01-Jan-1995
+27,Bad Boys,01-Jan-1995
+28,Apollo 13,01-Jan-1995
+29,Batman Forever,01-Jan-1995
+30,Belle de jour,01-Jan-1967
+31,Crimson Tide,01-Jan-1995
+32,Crumb,01-Jan-1994
+33,Desperado,01-Jan-1995
+34,"Doom Generation, The",01-Jan-1995
+35,Free Willy 2: The Adventure Home,01-Jan-1995
+36,Mad Love,01-Jan-1995
+37,Nadja,01-Jan-1994
+38,"Net, The",01-Jan-1995
+39,Strange Days,01-Jan-1995
+40,"To Wong Foo, Thanks for Everything! Julie Newmar",01-Jan-1995
+41,Billy Madison,01-Jan-1995
+42,Clerks,01-Jan-1994
+43,Disclosure,01-Jan-1994
+44,Dolores Claiborne,01-Jan-1994
+45,Eat Drink Man Woman,01-Jan-1994
+46,Exotica,01-Jan-1994
+47,Ed Wood,01-Jan-1994
+48,Hoop Dreams,01-Jan-1994
+49,I.Q.,01-Jan-1994
+50,Star Wars,01-Jan-1977
+51,Legends of the Fall,01-Jan-1994
+52,"Madness of King George, The",01-Jan-1994
+53,Natural Born Killers,01-Jan-1994
+54,Outbreak,01-Jan-1995
+55,"Professional, The",01-Jan-1994
+56,Pulp Fiction,01-Jan-1994
+57,Priest,01-Jan-1994
+58,Quiz Show,01-Jan-1994
+59,Three Colors: Red,01-Jan-1994
+60,Three Colors: Blue,01-Jan-1993
+61,Three Colors: White,01-Jan-1994
+62,Stargate,01-Jan-1994
+63,"Santa Clause, The",01-Jan-1994
+64,"Shawshank Redemption, The",01-Jan-1994
+65,What's Eating Gilbert Grape,01-Jan-1993
+66,While You Were Sleeping,01-Jan-1995
+67,Ace Ventura: Pet Detective,01-Jan-1994
+68,"Crow, The",01-Jan-1994
+69,Forrest Gump,01-Jan-1994
+70,Four Weddings and a Funeral,01-Jan-1994
+71,"Lion King, The",01-Jan-1994
+72,"Mask, The",01-Jan-1994
+73,Maverick,01-Jan-1994
+74,Faster Pussycat! Kill! Kill!,01-Jan-1965
+75,Brother Minister: The Assassination of Malcolm X,01-Jan-1994
+76,Carlito's Way,01-Jan-1993
+77,"Firm, The",01-Jan-1993
+78,Free Willy,01-Jan-1993
+79,"Fugitive, The",01-Jan-1993
+80,Hot Shots! Part Deux,01-Jan-1993
+81,"Hudsucker Proxy, The",01-Jan-1994
+82,Jurassic Park,01-Jan-1993
+83,Much Ado About Nothing,01-Jan-1993
+84,Robert A. Heinlein's The Puppet Masters,01-Jan-1994
+85,"Ref, The",01-Jan-1994
+86,"Remains of the Day, The",01-Jan-1993
+87,Searching for Bobby Fischer,01-Jan-1993
+88,Sleepless in Seattle,01-Jan-1993
+89,Blade Runner,01-Jan-1982
+90,So I Married an Axe Murderer,01-Jan-1993
+91,"Nightmare Before Christmas, The",01-Jan-1993
+92,True Romance,01-Jan-1993
+93,Welcome to the Dollhouse,24-May-1996
+94,Home Alone,01-Jan-1990
+95,Aladdin,01-Jan-1992
+96,Terminator 2: Judgment Day,01-Jan-1991
+97,Dances with Wolves,01-Jan-1990
+98,"Silence of the Lambs, The",01-Jan-1991
+99,Snow White and the Seven Dwarfs,01-Jan-1937
+100,Fargo,14-Feb-1997
+101,Heavy Metal,08-Mar-1981
+102,"Aristocats, The",01-Jan-1970
+103,All Dogs Go to Heaven 2,29-Mar-1996
+104,Theodore Rex,29-Mar-1996
+105,Sgt. Bilko,29-Mar-1996
+106,Diabolique,01-Jan-1996
+107,Moll Flanders,14-Jun-1996
+108,Kids in the Hall: Brain Candy,12-Apr-1996
+109,Mystery Science Theater 3000: The Movie,19-Apr-1996
+110,Operation Dumbo Drop,01-Jan-1995
+111,"Truth About Cats & Dogs, The",26-Apr-1996
+112,Flipper,10-May-1996
+113,"Horseman on the Roof, The (Hussard sur le toit, Le)",19-Apr-1996
+114,Wallace & Gromit: The Best of Aardman Animation,05-Apr-1996
+115,"Haunted World of Edward D. Wood Jr., The",26-Apr-1996
+116,Cold Comfort Farm,23-Apr-1996
+117,"Rock, The",07-Jun-1996
+118,Twister,10-May-1996
+119,Maya Lin: A Strong Clear Vision,01-Jan-1994
+120,Striptease,28-Jun-1996
+121,Independence Day (ID4),03-Jul-1996
+122,"Cable Guy, The",14-Jun-1996
+123,"Frighteners, The",19-Jul-1996
+124,Lone Star,21-Jun-1996
+125,Phenomenon,29-Jun-1996
+126,"Spitfire Grill, The",06-Sep-1996
+127,"Godfather, The",01-Jan-1972
+128,Supercop,26-Jul-1996
+129,Bound,04-Oct-1996
+130,Kansas City,16-Aug-1996
+131,Breakfast at Tiffany's,01-Jan-1961
+132,"Wizard of Oz, The",01-Jan-1939
+133,Gone with the Wind,01-Jan-1939
+134,Citizen Kane,01-Jan-1941
+135,2001: A Space Odyssey,01-Jan-1968
+136,Mr. Smith Goes to Washington,01-Jan-1939
+137,Big Night,20-Sep-1996
+138,D3: The Mighty Ducks,04-Oct-1996
+139,"Love Bug, The",01-Jan-1969
+140,Homeward Bound: The Incredible Journey,01-Jan-1993
+141,"20,000 Leagues Under the Sea",01-Jan-1954
+142,Bedknobs and Broomsticks,01-Jan-1971
+143,"Sound of Music, The",01-Jan-1965
+144,Die Hard,01-Jan-1988
+145,"Lawnmower Man, The",01-Jan-1992
+146,Unhook the Stars,30-Oct-1996
+147,"Long Kiss Goodnight, The",05-Oct-1996
+148,"Ghost and the Darkness, The",11-Oct-1996
+149,Jude,01-Nov-1996
+150,Swingers,18-Oct-1996
+151,Willy Wonka and the Chocolate Factory,01-Jan-1971
+152,Sleeper,01-Jan-1973
+153,"Fish Called Wanda, A",01-Jan-1988
+154,Monty Python's Life of Brian,01-Jan-1979
+155,Dirty Dancing,01-Jan-1987
+156,Reservoir Dogs,01-Jan-1992
+157,Platoon,01-Jan-1986
+158,Weekend at Bernie's,01-Jan-1989
+159,Basic Instinct,01-Jan-1992
+160,Glengarry Glen Ross,01-Jan-1992
+161,Top Gun,01-Jan-1986
+162,On Golden Pond,01-Jan-1981
+163,"Return of the Pink Panther, The",01-Jan-1974
+164,"Abyss, The",01-Jan-1989
+165,Jean de Florette,01-Jan-1986
+166,Manon of the Spring (Manon des sources),01-Jan-1986
+167,Private Benjamin,01-Jan-1980
+168,Monty Python and the Holy Grail,01-Jan-1974
+169,"Wrong Trousers, The",01-Jan-1993
+170,Cinema Paradiso,01-Jan-1988
+171,Delicatessen,01-Jan-1991
+172,"Empire Strikes Back, The",01-Jan-1980
+173,"Princess Bride, The",01-Jan-1987
+174,Raiders of the Lost Ark,01-Jan-1981
+175,Brazil,01-Jan-1985
+176,Aliens,01-Jan-1986
+177,"Good, The Bad and The Ugly, The",01-Jan-1966
+178,12 Angry Men,01-Jan-1957
+179,"Clockwork Orange, A",01-Jan-1971
+180,Apocalypse Now,01-Jan-1979
+181,Return of the Jedi,14-Mar-1997
+182,GoodFellas,01-Jan-1990
+183,Alien,01-Jan-1979
+184,Army of Darkness,01-Jan-1993
+185,Psycho,01-Jan-1960
+186,"Blues Brothers, The",01-Jan-1980
+187,"Godfather: Part II, The",01-Jan-1974
+188,Full Metal Jacket,01-Jan-1987
+189,"Grand Day Out, A",01-Jan-1992
+190,Henry V,01-Jan-1989
+191,Amadeus,01-Jan-1984
+192,Raging Bull,01-Jan-1980
+193,"Right Stuff, The",01-Jan-1983
+194,"Sting, The",01-Jan-1973
+195,"Terminator, The",01-Jan-1984
+196,Dead Poets Society,01-Jan-1989
+197,"Graduate, The",01-Jan-1967
+198,Nikita (La Femme Nikita),01-Jan-1990
+199,"Bridge on the River Kwai, The",01-Jan-1957
+200,"Shining, The",01-Jan-1980
+201,Evil Dead II,01-Jan-1987
+202,Groundhog Day,01-Jan-1993
+203,Unforgiven,01-Jan-1992
+204,Back to the Future,01-Jan-1985
+205,Patton,01-Jan-1970
+206,Akira,01-Jan-1988
+207,Cyrano de Bergerac,01-Jan-1990
+208,Young Frankenstein,01-Jan-1974
+209,This Is Spinal Tap,01-Jan-1984
+210,Indiana Jones and the Last Crusade,01-Jan-1989
+211,M*A*S*H,01-Jan-1970
+212,"Unbearable Lightness of Being, The",01-Jan-1988
+213,"Room with a View, A",01-Jan-1986
+214,Pink Floyd - The Wall,01-Jan-1982
+215,Field of Dreams,01-Jan-1989
+216,When Harry Met Sally...,01-Jan-1989
+217,Bram Stoker's Dracula,01-Jan-1992
+218,Cape Fear,01-Jan-1991
+219,"Nightmare on Elm Street, A",01-Jan-1984
+220,"Mirror Has Two Faces, The",15-Nov-1996
+221,Breaking the Waves,15-Nov-1996
+222,Star Trek: First Contact,22-Nov-1996
+223,Sling Blade,22-Nov-1996
+224,Ridicule,27-Nov-1996
+225,101 Dalmatians,27-Nov-1996
+226,Die Hard 2,01-Jan-1990
+227,Star Trek VI: The Undiscovered Country,01-Jan-1991
+228,Star Trek: The Wrath of Khan,01-Jan-1982
+229,Star Trek III: The Search for Spock,01-Jan-1984
+230,Star Trek IV: The Voyage Home,01-Jan-1986
+231,Batman Returns,01-Jan-1992
+232,Young Guns,01-Jan-1988
+233,Under Siege,01-Jan-1992
+234,Jaws,01-Jan-1975
+235,Mars Attacks!,13-Dec-1996
+236,Citizen Ruth,13-Dec-1996
+237,Jerry Maguire,13-Dec-1996
+238,Raising Arizona,01-Jan-1987
+239,Sneakers,01-Jan-1992
+240,Beavis and Butt-head Do America,20-Dec-1996
+241,"Last of the Mohicans, The",01-Jan-1992
+242,Kolya,24-Jan-1997
+243,Jungle2Jungle,07-Mar-1997
+244,Smilla's Sense of Snow,14-Mar-1997
+245,"Devil's Own, The",26-Mar-1997
+246,Chasing Amy,01-Jan-1997
+247,Turbo: A Power Rangers Movie,28-Mar-1997
+248,Grosse Pointe Blank,11-Apr-1997
+249,Austin Powers: International Man of Mystery,02-May-1997
+250,"Fifth Element, The",09-May-1997
+251,Shall We Dance?,11-Jul-1997
+252,"Lost World: Jurassic Park, The",23-May-1997
+253,"Pillow Book, The",13-Jun-1997
+254,Batman & Robin,20-Jun-1997
+255,My Best Friend's Wedding,20-Jun-1997
+256,When the Cats Away (Chacun cherche son chat),20-Jun-1997
+257,Men in Black,04-Jul-1997
+258,Contact,11-Jul-1997
+259,George of the Jungle,01-Jan-1997
+260,Event Horizon,01-Jan-1997
+261,Air Bud,01-Aug-1997
+262,In the Company of Men,01-Aug-1997
+263,Steel,15-Aug-1997
+264,Mimic,22-Aug-1997
+265,"Hunt for Red October, The",01-Jan-1990
+266,Kull the Conqueror,29-Aug-1997
+267,,
+268,Chasing Amy,01-Jan-1997
+269,"Full Monty, The",01-Jan-1997
+270,Gattaca,01-Jan-1997
+271,Starship Troopers,01-Jan-1997
+272,Good Will Hunting,01-Jan-1997
+273,Heat,01-Jan-1995
+274,Sabrina,01-Jan-1995
+275,Sense and Sensibility,01-Jan-1995
+276,Leaving Las Vegas,01-Jan-1995
+277,Restoration,01-Jan-1995
+278,Bed of Roses,01-Jan-1996
+279,Once Upon a Time... When We Were Colored,01-Jan-1995
+280,Up Close and Personal,01-Mar-1996
+281,"River Wild, The",01-Jan-1994
+282,"Time to Kill, A",13-Jul-1996
+283,Emma,02-Aug-1996
+284,Tin Cup,16-Aug-1996
+285,Secrets & Lies,04-Oct-1996
+286,"English Patient, The",15-Nov-1996
+287,Marvin's Room,18-Dec-1996
+288,Scream,20-Dec-1996
+289,Evita,25-Dec-1996
+290,Fierce Creatures,10-Jan-1997
+291,Absolute Power,14-Feb-1997
+292,Rosewood,21-Feb-1997
+293,Donnie Brasco,28-Feb-1997
+294,Liar Liar,21-Mar-1997
+295,Breakdown,02-May-1997
+296,"Promesse, La",16-May-1997
+297,Ulee's Gold,01-Jan-1997
+298,Face/Off,27-Jun-1997
+299,Hoodlum,22-Aug-1997
+300,Air Force One,01-Jan-1997
+301,In & Out,19-Sep-1997
+302,L.A. Confidential,01-Jan-1997
+303,Ulee's Gold,01-Jan-1997
+304,Fly Away Home,13-Sep-1996
+305,"Ice Storm, The",01-Jan-1997
+306,"Mrs. Brown (Her Majesty, Mrs. Brown)",01-Jan-1997
+307,"Devil's Advocate, The",01-Jan-1997
+308,FairyTale: A True Story,01-Jan-1997
+309,Deceiver,01-Jan-1997
+310,"Rainmaker, The",01-Jan-1997
+311,"Wings of the Dove, The",01-Jan-1997
+312,Midnight in the Garden of Good and Evil,01-Jan-1997
+313,Titanic,01-Jan-1997
+314,3 Ninjas: High Noon At Mega Mountain,01-Jan-1997
+315,Apt Pupil,23-Oct-1998
+316,As Good As It Gets,23-Dec-1997
+317,In the Name of the Father,01-Jan-1993
+318,Schindler's List,01-Jan-1993
+319,Everyone Says I Love You,06-Dec-1996
+320,Paradise Lost: The Child Murders at Robin Hood Hills,06-Dec-1996
+321,Mother,25-Dec-1996
+322,Murder at 1600,18-Apr-1997
+323,Dante's Peak,07-Feb-1997
+324,Lost Highway,21-Feb-1997
+325,Crash,21-Mar-1997
+326,G.I. Jane,01-Jan-1997
+327,Cop Land,01-Jan-1997
+328,Conspiracy Theory,08-Aug-1997
+329,Desperate Measures,30-Jan-1998
+330,187,01-Jan-1997
+331,"Edge, The",26-Sep-1997
+332,Kiss the Girls,01-Jan-1997
+333,"Game, The",01-Jan-1997
+334,U Turn,01-Jan-1997
+335,How to Be a Player,01-Jan-1997
+336,Playing God,01-Jan-1997
+337,"House of Yes, The",01-Jan-1997
+338,Bean,01-Jan-1997
+339,Mad City,01-Jan-1997
+340,Boogie Nights,01-Jan-1997
+341,Critical Care,01-Jan-1997
+342,"Man Who Knew Too Little, The",01-Jan-1997
+343,Alien: Resurrection,01-Jan-1997
+344,"Apostle, The",18-Dec-1997
+345,Deconstructing Harry,01-Jan-1997
+346,Jackie Brown,01-Jan-1997
+347,Wag the Dog,09-Jan-1998
+348,Desperate Measures,30-Jan-1998
+349,Hard Rain,16-Jan-1998
+350,Fallen,16-Jan-1998
+351,"Prophecy II, The",16-Jan-1998
+352,Spice World,01-Jan-1997
+353,Deep Rising,30-Jan-1998
+354,"Wedding Singer, The",13-Feb-1998
+355,Sphere,13-Feb-1998
+356,"Client, The",01-Jan-1994
+357,One Flew Over the Cuckoo's Nest,01-Jan-1975
+358,Spawn,01-Aug-1997
+359,"Assignment, The",01-Jan-1997
+360,Wonderland,01-Jan-1997
+361,Incognito,01-Jan-1997
+362,Blues Brothers 2000,06-Feb-1998
+363,Sudden Death,01-Jan-1995
+364,Ace Ventura: When Nature Calls,01-Jan-1995
+365,Powder,01-Jan-1995
+366,Dangerous Minds,01-Jan-1995
+367,Clueless,01-Jan-1995
+368,Bio-Dome,01-Jan-1996
+369,Black Sheep,02-Feb-1996
+370,Mary Reilly,23-Feb-1996
+371,"Bridges of Madison County, The",09-Feb-1996
+372,Jeffrey,01-Jan-1995
+373,Judge Dredd,01-Jan-1995
+374,Mighty Morphin Power Rangers: The Movie,01-Jan-1995
+375,Showgirls,01-Jan-1995
+376,Houseguest,01-Jan-1994
+377,Heavyweights,01-Jan-1994
+378,Miracle on 34th Street,01-Jan-1994
+379,Tales From the Crypt Presents: Demon Knight,01-Jan-1995
+380,Star Trek: Generations,01-Jan-1994
+381,Muriel's Wedding,01-Jan-1994
+382,"Adventures of Priscilla, Queen of the Desert, The",01-Jan-1994
+383,"Flintstones, The",01-Jan-1994
+384,Naked Gun 33 1/3: The Final Insult,01-Jan-1994
+385,True Lies,01-Jan-1994
+386,Addams Family Values,01-Jan-1993
+387,"Age of Innocence, The",01-Jan-1993
+388,Beverly Hills Cop III,01-Jan-1994
+389,Black Beauty,01-Jan-1994
+390,Fear of a Black Hat,01-Jan-1993
+391,Last Action Hero,01-Jan-1993
+392,"Man Without a Face, The",01-Jan-1993
+393,Mrs. Doubtfire,01-Jan-1993
+394,Radioland Murders,01-Jan-1994
+395,Robin Hood: Men in Tights,01-Jan-1993
+396,Serial Mom,01-Jan-1994
+397,Striking Distance,01-Jan-1993
+398,Super Mario Bros.,01-Jan-1993
+399,"Three Musketeers, The",01-Jan-1993
+400,"Little Rascals, The",01-Jan-1994
+401,"Brady Bunch Movie, The",01-Jan-1995
+402,Ghost,01-Jan-1990
+403,Batman,01-Jan-1989
+404,Pinocchio,01-Jan-1940
+405,Mission: Impossible,22-May-1996
+406,Thinner,25-Oct-1996
+407,Spy Hard,24-May-1996
+408,"Close Shave, A",28-Apr-1996
+409,Jack,07-Aug-1996
+410,Kingpin,12-Jul-1996
+411,"Nutty Professor, The",28-Jun-1996
+412,"Very Brady Sequel, A",23-Aug-1996
+413,Tales from the Crypt Presents: Bordello of Blood,19-Jul-1996
+414,My Favorite Year,01-Jan-1982
+415,"Apple Dumpling Gang, The",01-Jan-1975
+416,Old Yeller,01-Jan-1957
+417,"Parent Trap, The",01-Jan-1961
+418,Cinderella,01-Jan-1950
+419,Mary Poppins,01-Jan-1964
+420,Alice in Wonderland,01-Jan-1951
+421,William Shakespeare's Romeo and Juliet,25-Oct-1996
+422,Aladdin and the King of Thieves,01-Jan-1996
+423,E.T. the Extra-Terrestrial,01-Jan-1982
+424,Children of the Corn: The Gathering,01-Jan-1996
+425,Bob Roberts,01-Jan-1992
+426,"Transformers: The Movie, The",01-Jan-1986
+427,To Kill a Mockingbird,01-Jan-1962
+428,Harold and Maude,01-Jan-1971
+429,"Day the Earth Stood Still, The",01-Jan-1951
+430,Duck Soup,01-Jan-1933
+431,Highlander,01-Jan-1986
+432,Fantasia,01-Jan-1940
+433,Heathers,01-Jan-1989
+434,Forbidden Planet,01-Jan-1956
+435,Butch Cassidy and the Sundance Kid,01-Jan-1969
+436,"American Werewolf in London, An",01-Jan-1981
+437,Amityville 1992: It's About Time,01-Jan-1992
+438,Amityville 3-D,01-Jan-1983
+439,Amityville: A New Generation,01-Jan-1993
+440,Amityville II: The Possession,01-Jan-1982
+441,"Amityville Horror, The",01-Jan-1979
+442,"Amityville Curse, The",01-Jan-1990
+443,"Birds, The",01-Jan-1963
+444,"Blob, The",01-Jan-1958
+445,"Body Snatcher, The",01-Jan-1945
+446,Burnt Offerings,01-Jan-1976
+447,Carrie,01-Jan-1976
+448,"Omen, The",01-Jan-1976
+449,Star Trek: The Motion Picture,01-Jan-1979
+450,Star Trek V: The Final Frontier,01-Jan-1989
+451,Grease,01-Jan-1978
+452,Jaws 2,01-Jan-1978
+453,Jaws 3-D,01-Jan-1983
+454,Bastard Out of Carolina,15-Dec-1996
+455,Jackie Chan's First Strike,10-Jan-1997
+456,Beverly Hills Ninja,17-Jan-1997
+457,Free Willy 3: The Rescue,08-Aug-1997
+458,Nixon,01-Jan-1995
+459,"Cry, the Beloved Country",01-Jan-1995
+460,"Crossing Guard, The",01-Jan-1995
+461,Smoke,01-Jan-1995
+462,Like Water For Chocolate (Como agua para chocolate),01-Jan-1992
+463,"Secret of Roan Inish, The",01-Jan-1994
+464,Vanya on 42nd Street,01-Jan-1994
+465,"Jungle Book, The",01-Jan-1994
+466,Red Rock West,01-Jan-1992
+467,"Bronx Tale, A",01-Jan-1993
+468,Rudy,01-Jan-1993
+469,Short Cuts,01-Jan-1993
+470,Tombstone,01-Jan-1993
+471,Courage Under Fire,08-Mar-1996
+472,Dragonheart,31-May-1996
+473,James and the Giant Peach,12-Apr-1996
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,01-Jan-1963
+475,Trainspotting,19-Jul-1996
+476,"First Wives Club, The",14-Sep-1996
+477,Matilda,02-Aug-1996
+478,"Philadelphia Story, The",01-Jan-1940
+479,Vertigo,01-Jan-1958
+480,North by Northwest,01-Jan-1959
+481,"Apartment, The",01-Jan-1960
+482,Some Like It Hot,01-Jan-1959
+483,Casablanca,01-Jan-1942
+484,"Maltese Falcon, The",01-Jan-1941
+485,My Fair Lady,01-Jan-1964
+486,Sabrina,01-Jan-1954
+487,Roman Holiday,01-Jan-1953
+488,Sunset Blvd.,01-Jan-1950
+489,Notorious,01-Jan-1946
+490,To Catch a Thief,01-Jan-1955
+491,"Adventures of Robin Hood, The",01-Jan-1938
+492,East of Eden,01-Jan-1955
+493,"Thin Man, The",01-Jan-1934
+494,His Girl Friday,01-Jan-1940
+495,Around the World in 80 Days,01-Jan-1956
+496,It's a Wonderful Life,01-Jan-1946
+497,Bringing Up Baby,01-Jan-1938
+498,"African Queen, The",01-Jan-1951
+499,Cat on a Hot Tin Roof,01-Jan-1958
+500,Fly Away Home,13-Sep-1996
+501,Dumbo,01-Jan-1941
+502,Bananas,01-Jan-1971
+503,"Candidate, The",01-Jan-1972
+504,Bonnie and Clyde,01-Jan-1967
+505,Dial M for Murder,01-Jan-1954
+506,Rebel Without a Cause,01-Jan-1955
+507,"Streetcar Named Desire, A",01-Jan-1951
+508,"People vs. Larry Flynt, The",27-Dec-1996
+509,My Left Foot,01-Jan-1989
+510,"Magnificent Seven, The",01-Jan-1954
+511,Lawrence of Arabia,01-Jan-1962
+512,Wings of Desire,01-Jan-1987
+513,"Third Man, The",01-Jan-1949
+514,Annie Hall,01-Jan-1977
+515,"Boot, Das",04-Apr-1997
+516,Local Hero,01-Jan-1983
+517,Manhattan,01-Jan-1979
+518,Miller's Crossing,01-Jan-1990
+519,"Treasure of the Sierra Madre, The",01-Jan-1948
+520,"Great Escape, The",01-Jan-1963
+521,"Deer Hunter, The",01-Jan-1978
+522,Down by Law,01-Jan-1986
+523,Cool Hand Luke,01-Jan-1967
+524,"Great Dictator, The",01-Jan-1940
+525,"Big Sleep, The",01-Jan-1946
+526,Ben-Hur,01-Jan-1959
+527,Gandhi,01-Jan-1982
+528,"Killing Fields, The",01-Jan-1984
+529,My Life as a Dog (Mitt liv som hund),01-Jan-1985
+530,"Man Who Would Be King, The",01-Jan-1975
+531,Shine,22-Nov-1996
+532,Kama Sutra: A Tale of Love,07-Mar-1997
+533,"Daytrippers, The",21-Mar-1997
+534,Traveller,18-Apr-1997
+535,Addicted to Love,23-May-1997
+536,Ponette,23-May-1997
+537,My Own Private Idaho,01-Jan-1991
+538,Anastasia,01-Jan-1997
+539,Mouse Hunt,01-Jan-1997
+540,Money Train,01-Jan-1995
+541,Mortal Kombat,01-Jan-1995
+542,Pocahontas,01-Jan-1995
+543,"Misérables, Les",01-Jan-1995
+544,Things to Do in Denver when You're Dead,02-Feb-1996
+545,Vampire in Brooklyn,01-Jan-1995
+546,Broken Arrow,09-Feb-1996
+547,"Young Poisoner's Handbook, The",23-Feb-1996
+548,"NeverEnding Story III, The",02-Feb-1996
+549,Rob Roy,01-Jan-1995
+550,Die Hard: With a Vengeance,01-Jan-1995
+551,Lord of Illusions,01-Jan-1995
+552,Species,01-Jan-1995
+553,"Walk in the Clouds, A",01-Jan-1995
+554,Waterworld,01-Jan-1995
+555,White Man's Burden,01-Jan-1995
+556,Wild Bill,01-Jan-1995
+557,Farinelli: il castrato,01-Jan-1994
+558,Heavenly Creatures,01-Jan-1994
+559,Interview with the Vampire,01-Jan-1994
+560,"Kid in King Arthur's Court, A",01-Jan-1995
+561,Mary Shelley's Frankenstein,01-Jan-1994
+562,"Quick and the Dead, The",01-Jan-1995
+563,Stephen King's The Langoliers,01-Jan-1995
+564,Tales from the Hood,01-Jan-1995
+565,Village of the Damned,01-Jan-1995
+566,Clear and Present Danger,01-Jan-1994
+567,Wes Craven's New Nightmare,01-Jan-1994
+568,Speed,01-Jan-1994
+569,Wolf,01-Jan-1994
+570,Wyatt Earp,01-Jan-1994
+571,Another Stakeout,01-Jan-1993
+572,Blown Away,01-Jan-1994
+573,Body Snatchers,01-Jan-1993
+574,Boxing Helena,01-Jan-1993
+575,City Slickers II: The Legend of Curly's Gold,01-Jan-1994
+576,Cliffhanger,01-Jan-1993
+577,Coneheads,01-Jan-1993
+578,Demolition Man,01-Jan-1993
+579,Fatal Instinct,01-Jan-1993
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The",01-Jan-1995
+581,Kalifornia,01-Jan-1993
+582,"Piano, The",01-Jan-1993
+583,Romeo Is Bleeding,01-Jan-1993
+584,"Secret Garden, The",01-Jan-1993
+585,Son in Law,01-Jan-1993
+586,Terminal Velocity,01-Jan-1994
+587,"Hour of the Pig, The",01-Jan-1993
+588,Beauty and the Beast,01-Jan-1991
+589,"Wild Bunch, The",01-Jan-1969
+590,Hellraiser: Bloodline,08-Mar-1996
+591,Primal Fear,30-Mar-1996
+592,True Crime,01-Jan-1995
+593,Stalingrad,01-Jan-1993
+594,Heavy,05-Jun-1996
+595,"Fan, The",16-Aug-1996
+596,"Hunchback of Notre Dame, The",21-Jun-1996
+597,Eraser,21-Jun-1996
+598,"Big Squeeze, The",06-Sep-1996
+599,Police Story 4: Project S (Chao ji ji hua),16-Aug-1996
+600,Daniel Defoe's Robinson Crusoe,01-Jan-1996
+601,For Whom the Bell Tolls,01-Jan-1943
+602,"American in Paris, An",01-Jan-1951
+603,Rear Window,01-Jan-1954
+604,It Happened One Night,01-Jan-1934
+605,Meet Me in St. Louis,01-Jan-1944
+606,All About Eve,01-Jan-1950
+607,Rebecca,01-Jan-1940
+608,Spellbound,01-Jan-1945
+609,Father of the Bride,01-Jan-1950
+610,Gigi,01-Jan-1958
+611,Laura,01-Jan-1944
+612,Lost Horizon,01-Jan-1937
+613,My Man Godfrey,01-Jan-1936
+614,Giant,01-Jan-1956
+615,"39 Steps, The",01-Jan-1935
+616,Night of the Living Dead,01-Jan-1968
+617,"Blue Angel, The (Blaue Engel, Der)",01-Jan-1930
+618,Picnic,01-Jan-1955
+619,Extreme Measures,27-Sep-1996
+620,"Chamber, The",11-Oct-1996
+621,"Davy Crockett, King of the Wild Frontier",01-Jan-1955
+622,Swiss Family Robinson,01-Jan-1960
+623,Angels in the Outfield,01-Jan-1994
+624,"Three Caballeros, The",01-Jan-1945
+625,"Sword in the Stone, The",01-Jan-1963
+626,So Dear to My Heart,01-Jan-1949
+627,Robin Hood: Prince of Thieves,01-Jan-1991
+628,Sleepers,18-Oct-1996
+629,Victor/Victoria,01-Jan-1982
+630,"Great Race, The",01-Jan-1965
+631,"Crying Game, The",01-Jan-1992
+632,Sophie's Choice,01-Jan-1982
+633,"Christmas Carol, A",01-Jan-1938
+634,Microcosmos: Le peuple de l'herbe,11-Oct-1996
+635,"Fog, The",01-Jan-1980
+636,Escape from New York,01-Jan-1981
+637,"Howling, The",01-Jan-1981
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le)",01-Jan-1982
+639,"Tin Drum, The (Blechtrommel, Die)",01-Jan-1979
+640,"Cook the Thief His Wife & Her Lover, The",01-Jan-1989
+641,Paths of Glory,01-Jan-1957
+642,"Grifters, The",01-Jan-1990
+643,The Innocent,01-Jan-1994
+644,"Thin Blue Line, The",01-Jan-1988
+645,Paris Is Burning,01-Jan-1990
+646,Once Upon a Time in the West,01-Jan-1969
+647,Ran,01-Jan-1985
+648,"Quiet Man, The",01-Jan-1952
+649,Once Upon a Time in America,01-Jan-1984
+650,"Seventh Seal, The (Sjunde inseglet, Det)",01-Jan-1957
+651,Glory,01-Jan-1989
+652,Rosencrantz and Guildenstern Are Dead,01-Jan-1990
+653,Touch of Evil,01-Jan-1958
+654,Chinatown,01-Jan-1974
+655,Stand by Me,01-Jan-1986
+656,M,01-Jan-1931
+657,"Manchurian Candidate, The",01-Jan-1962
+658,Pump Up the Volume,01-Jan-1990
+659,Arsenic and Old Lace,01-Jan-1944
+660,Fried Green Tomatoes,01-Jan-1991
+661,High Noon,01-Jan-1952
+662,Somewhere in Time,01-Jan-1980
+663,Being There,01-Jan-1979
+664,"Paris, Texas",01-Jan-1984
+665,Alien 3,01-Jan-1992
+666,Blood For Dracula (Andy Warhol's Dracula),01-Jan-1974
+667,Audrey Rose,01-Jan-1977
+668,Blood Beach,01-Jan-1981
+669,Body Parts,01-Jan-1991
+670,Body Snatchers,01-Jan-1993
+671,Bride of Frankenstein,01-Jan-1935
+672,Candyman,01-Jan-1992
+673,Cape Fear,01-Jan-1962
+674,Cat People,01-Jan-1982
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens)",01-Jan-1922
+676,"Crucible, The",27-Nov-1996
+677,Fire on the Mountain,24-Jan-1997
+678,Volcano,25-Apr-1997
+679,Conan the Barbarian,01-Jan-1981
+680,Kull the Conqueror,29-Aug-1997
+681,Wishmaster,01-Jan-1997
+682,I Know What You Did Last Summer,17-Oct-1997
+683,Rocket Man,01-Jan-1997
+684,In the Line of Fire,01-Jan-1993
+685,Executive Decision,09-Mar-1996
+686,"Perfect World, A",01-Jan-1993
+687,McHale's Navy,18-Apr-1997
+688,Leave It to Beaver,22-Aug-1997
+689,"Jackal, The",01-Jan-1997
+690,Seven Years in Tibet,01-Jan-1997
+691,Dark City,09-Jan-1998
+692,"American President, The",01-Jan-1995
+693,Casino,01-Jan-1995
+694,Persuasion,25-Sep-1995
+695,Kicking and Screaming,01-Jan-1995
+696,City Hall,16-Feb-1996
+697,"Basketball Diaries, The",01-Jan-1995
+698,"Browning Version, The",01-Jan-1994
+699,Little Women,01-Jan-1994
+700,Miami Rhapsody,01-Jan-1995
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The",01-Jan-1993
+702,Barcelona,01-Jan-1994
+703,Widows' Peak,01-Jan-1994
+704,"House of the Spirits, The",01-Jan-1993
+705,Singin' in the Rain,01-Jan-1952
+706,Bad Moon,01-Nov-1996
+707,Enchanted April,01-Jan-1991
+708,"Sex, Lies, and Videotape",01-Jan-1989
+709,Strictly Ballroom,01-Jan-1992
+710,Better Off Dead...,01-Jan-1985
+711,"Substance of Fire, The",06-Dec-1996
+712,Tin Men,01-Jan-1987
+713,Othello,18-Dec-1995
+714,Carrington,01-Jan-1995
+715,To Die For,01-Jan-1995
+716,Home for the Holidays,01-Jan-1995
+717,"Juror, The",01-Jan-1996
+718,In the Bleak Midwinter,23-Feb-1996
+719,Canadian Bacon,01-Jan-1994
+720,First Knight,01-Jan-1995
+721,Mallrats,01-Jan-1995
+722,Nine Months,01-Jan-1995
+723,Boys on the Side,01-Jan-1995
+724,Circle of Friends,01-Jan-1995
+725,Exit to Eden,01-Jan-1994
+726,Fluke,01-Jan-1995
+727,Immortal Beloved,01-Jan-1994
+728,Junior,01-Jan-1994
+729,Nell,01-Jan-1994
+730,"Queen Margot (Reine Margot, La)",01-Jan-1996
+731,"Corrina, Corrina",01-Jan-1994
+732,Dave,01-Jan-1993
+733,Go Fish,01-Jan-1994
+734,Made in America,01-Jan-1993
+735,Philadelphia,01-Jan-1993
+736,Shadowlands,01-Jan-1993
+737,Sirens,01-Jan-1994
+738,Threesome,01-Jan-1994
+739,Pretty Woman,01-Jan-1990
+740,Jane Eyre,05-Apr-1996
+741,"Last Supper, The",05-Apr-1996
+742,Ransom,08-Nov-1996
+743,"Crow: City of Angels, The",30-Aug-1996
+744,Michael Collins,11-Oct-1996
+745,"Ruling Class, The",01-Jan-1972
+746,Real Genius,01-Jan-1985
+747,Benny & Joon,01-Jan-1993
+748,"Saint, The",14-Mar-1997
+749,"MatchMaker, The",01-Jan-1997
+750,Amistad,18-Dec-1997
+751,Tomorrow Never Dies,01-Jan-1997
+752,"Replacement Killers, The",06-Feb-1998
+753,Burnt By the Sun,01-Jan-1994
+754,Red Corner,01-Jan-1997
+755,Jumanji,01-Jan-1995
+756,Father of the Bride Part II,01-Jan-1995
+757,Across the Sea of Time,01-Jan-1995
+758,Lawnmower Man 2: Beyond Cyberspace,01-Jan-1996
+759,Fair Game,01-Jan-1995
+760,Screamers,01-Jan-1995
+761,Nick of Time,01-Jan-1995
+762,Beautiful Girls,09-Feb-1996
+763,Happy Gilmore,16-Feb-1996
+764,If Lucy Fell,08-Mar-1996
+765,Boomerang,01-Jan-1992
+766,Man of the Year,01-Mar-1996
+767,"Addiction, The",01-Jan-1995
+768,Casper,01-Jan-1995
+769,Congo,01-Jan-1995
+770,Devil in a Blue Dress,01-Jan-1995
+771,Johnny Mnemonic,01-Jan-1995
+772,Kids,01-Jan-1995
+773,Mute Witness,01-Jan-1994
+774,"Prophecy, The",01-Jan-1995
+775,Something to Talk About,01-Jan-1995
+776,Three Wishes,01-Jan-1995
+777,Castle Freak,01-Jan-1995
+778,Don Juan DeMarco,01-Jan-1995
+779,Drop Zone,01-Jan-1994
+780,Dumb & Dumber,01-Jan-1994
+781,French Kiss,01-Jan-1995
+782,Little Odessa,01-Jan-1994
+783,Milk Money,01-Jan-1994
+784,Beyond Bedlam,01-Jan-1993
+785,Only You,01-Jan-1994
+786,"Perez Family, The",01-Jan-1995
+787,Roommates,01-Jan-1995
+788,Relative Fear,01-Jan-1994
+789,Swimming with Sharks,01-Jan-1995
+790,Tommy Boy,01-Jan-1995
+791,"Baby-Sitters Club, The",01-Jan-1995
+792,Bullets Over Broadway,01-Jan-1994
+793,Crooklyn,01-Jan-1994
+794,It Could Happen to You,01-Jan-1994
+795,Richie Rich,01-Jan-1994
+796,Speechless,01-Jan-1994
+797,Timecop,01-Jan-1994
+798,Bad Company,01-Jan-1995
+799,Boys Life,01-Jan-1995
+800,In the Mouth of Madness,01-Jan-1995
+801,"Air Up There, The",01-Jan-1994
+802,Hard Target,01-Jan-1993
+803,Heaven & Earth,01-Jan-1993
+804,Jimmy Hollywood,01-Jan-1994
+805,Manhattan Murder Mystery,01-Jan-1993
+806,Menace II Society,01-Jan-1993
+807,Poetic Justice,01-Jan-1993
+808,"Program, The",01-Jan-1993
+809,Rising Sun,01-Jan-1993
+810,"Shadow, The",01-Jan-1994
+811,Thirty-Two Short Films About Glenn Gould,01-Jan-1993
+812,Andre,01-Jan-1994
+813,"Celluloid Closet, The",15-Mar-1996
+814,"Great Day in Harlem, A",01-Jan-1994
+815,One Fine Day,30-Nov-1996
+816,Candyman: Farewell to the Flesh,01-Jan-1995
+817,Frisk,29-Mar-1996
+818,Girl 6,22-Mar-1996
+819,Eddie,31-May-1996
+820,Space Jam,15-Nov-1996
+821,Mrs. Winterbourne,19-Apr-1996
+822,Faces,01-Jan-1968
+823,Mulholland Falls,26-Apr-1996
+824,"Great White Hype, The",03-May-1996
+825,"Arrival, The",31-May-1996
+826,"Phantom, The",07-Jun-1996
+827,Daylight,06-Dec-1996
+828,Alaska,21-Aug-1996
+829,Fled,19-Jul-1996
+830,Power 98,17-May-1996
+831,Escape from L.A.,09-Aug-1996
+832,Bogus,06-Sep-1996
+833,Bulletproof,06-Sep-1996
+834,Halloween: The Curse of Michael Myers,01-Jan-1995
+835,"Gay Divorcee, The",01-Jan-1934
+836,Ninotchka,01-Jan-1939
+837,Meet John Doe,01-Jan-1941
+838,In the Line of Duty 2,30-Aug-1996
+839,Loch Ness,01-Jan-1995
+840,Last Man Standing,20-Sep-1996
+841,"Glimmer Man, The",04-Oct-1996
+842,Pollyanna,01-Jan-1960
+843,"Shaggy Dog, The",01-Jan-1959
+844,Freeway,23-Aug-1996
+845,That Thing You Do!,28-Sep-1996
+846,To Gillian on Her 37th Birthday,18-Oct-1996
+847,Looking for Richard,11-Oct-1996
+848,"Murder, My Sweet",01-Jan-1944
+849,Days of Thunder,01-Jan-1990
+850,"Perfect Candidate, A",27-Sep-1996
+851,Two or Three Things I Know About Her,01-Jan-1966
+852,"Bloody Child, The",26-Oct-1996
+853,Braindead,01-Jan-1992
+854,Bad Taste,01-Jan-1987
+855,Diva,01-Jan-1981
+856,Night on Earth,01-Jan-1991
+857,Paris Was a Woman,08-Nov-1996
+858,Amityville: Dollhouse,01-Jan-1996
+859,April Fool's Day,01-Jan-1986
+860,"Believers, The",01-Jan-1987
+861,Nosferatu a Venezia,01-Jan-1986
+862,Jingle All the Way,22-Nov-1996
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il)",08-Nov-1996
+864,My Fellow Americans,20-Dec-1996
+865,"Ice Storm, The",01-Jan-1997
+866,Michael,25-Dec-1996
+867,"Whole Wide World, The",25-Dec-1996
+868,Hearts and Minds,10-Jan-1997
+869,Fools Rush In,14-Feb-1997
+870,Touch,14-Feb-1997
+871,Vegas Vacation,14-Feb-1997
+872,Love Jones,14-Mar-1997
+873,Picture Perfect,01-Aug-1997
+874,Career Girls,08-Aug-1997
+875,She's So Lovely,22-Aug-1997
+876,Money Talks,22-Aug-1997
+877,Excess Baggage,01-Jan-1997
+878,That Darn Cat!,14-Feb-1997
+879,"Peacemaker, The",01-Jan-1997
+880,Soul Food,01-Jan-1997
+881,Money Talks,22-Aug-1997
+882,Washington Square,01-Jan-1997
+883,Telling Lies in America,01-Jan-1997
+884,Year of the Horse,01-Jan-1997
+885,Phantoms,01-Jan-1998
+886,"Life Less Ordinary, A",01-Jan-1997
+887,Eve's Bayou,01-Jan-1997
+888,One Night Stand,01-Jan-1997
+889,"Tango Lesson, The",01-Jan-1997
+890,Mortal Kombat: Annihilation,01-Jan-1997
+891,Bent,18-Dec-1997
+892,Flubber,01-Jan-1997
+893,For Richer or Poorer,01-Jan-1997
+894,Home Alone 3,01-Jan-1997
+895,Scream 2,01-Jan-1997
+896,"Sweet Hereafter, The",01-Jan-1997
+897,Time Tracers,01-Jan-1995
+898,"Postman, The",01-Jan-1997
+899,"Winter Guest, The",01-Jan-1997
+900,Kundun,25-Dec-1997
+901,Mr. Magoo,25-Dec-1997
+902,"Big Lebowski, The",26-Dec-1997
+903,Afterglow,26-Dec-1997
+904,Ma vie en rose (My Life in Pink),26-Dec-1997
+905,Great Expectations,01-Jan-1998
+906,Oscar & Lucinda,31-Dec-1997
+907,Vermin,01-Jan-1997
+908,Half Baked,16-Jan-1998
+909,Dangerous Beauty,23-Jan-1998
+910,Nil By Mouth,06-Feb-1998
+911,Twilight,30-Jan-1998
+912,U.S. Marshalls,10-Mar-1998
+913,Love and Death on Long Island,10-Mar-1998
+914,Wild Things,14-Mar-1998
+915,Primary Colors,20-Mar-1998
+916,Lost in Space,27-Mar-1998
+917,Mercury Rising,27-Mar-1998
+918,City of Angels,03-Apr-1998
+919,"City of Lost Children, The",01-Jan-1995
+920,Two Bits,01-Jan-1995
+921,Farewell My Concubine,01-Jan-1993
+922,Dead Man,10-May-1996
+923,Raise the Red Lantern,01-Jan-1991
+924,White Squall,01-Jan-1996
+925,Unforgettable,23-Feb-1996
+926,Down Periscope,01-Mar-1996
+927,"Flower of My Secret, The (Flor de mi secreto, La)",08-Mar-1996
+928,"Craft, The",26-Apr-1996
+929,Harriet the Spy,03-Jul-1996
+930,Chain Reaction,31-Jul-1996
+931,"Island of Dr. Moreau, The",23-Aug-1996
+932,First Kid,30-Aug-1996
+933,"Funeral, The",25-Oct-1996
+934,"Preacher's Wife, The",13-Dec-1996
+935,Paradise Road,18-Apr-1997
+936,Brassed Off,13-Jun-1997
+937,"Thousand Acres, A",01-Jan-1997
+938,"Smile Like Yours, A",01-Jan-1997
+939,Murder in the First,01-Jan-1995
+940,Airheads,01-Jan-1994
+941,With Honors,01-Jan-1994
+942,What's Love Got to Do with It,01-Jan-1993
+943,Killing Zoe,01-Jan-1994
+944,Renaissance Man,01-Jan-1994
+945,Charade,01-Jan-1963
+946,"Fox and the Hound, The",01-Jan-1981
+947,"Big Blue, The (Grand bleu, Le)",01-Jan-1988
+948,Booty Call,28-Feb-1997
+949,How to Make an American Quilt,01-Jan-1995
+950,Georgia,01-Jan-1995
+951,"Indian in the Cupboard, The",01-Jan-1995
+952,Blue in the Face,01-Jan-1995
+953,Unstrung Heroes,01-Jan-1995
+954,Unzipped,01-Jan-1995
+955,Before Sunrise,01-Jan-1995
+956,Nobody's Fool,01-Jan-1994
+957,Pushing Hands,01-Jan-1992
+958,To Live (Huozhe),01-Jan-1994
+959,Dazed and Confused,01-Jan-1993
+960,Naked,01-Jan-1993
+961,Orlando,01-Jan-1993
+962,Ruby in Paradise,01-Jan-1993
+963,Some Folks Call It a Sling Blade,01-Jan-1993
+964,"Month by the Lake, A",01-Jan-1995
+965,Funny Face,01-Jan-1957
+966,"Affair to Remember, An",01-Jan-1957
+967,Little Lord Fauntleroy,01-Jan-1936
+968,"Inspector General, The",01-Jan-1949
+969,Winnie the Pooh and the Blustery Day,01-Jan-1968
+970,Hear My Song,01-Jan-1991
+971,Mediterraneo,01-Jan-1991
+972,Passion Fish,01-Jan-1992
+973,Grateful Dead,18-Oct-1996
+974,Eye for an Eye,01-Jan-1996
+975,Fear,12-Apr-1996
+976,Solo,23-Aug-1996
+977,"Substitute, The",19-Apr-1996
+978,Heaven's Prisoners,10-May-1996
+979,"Trigger Effect, The",30-Aug-1996
+980,Mother Night,01-Nov-1996
+981,Dangerous Ground,04-Sep-1996
+982,Maximum Risk,13-Sep-1996
+983,"Rich Man's Wife, The",13-Sep-1996
+984,Shadow Conspiracy,31-Jan-1997
+985,Blood & Wine,15-Nov-1996
+986,Turbulence,10-Jan-1997
+987,Underworld,09-May-1997
+988,"Beautician and the Beast, The",07-Feb-1997
+989,Cats Don't Dance,26-Mar-1997
+990,Anna Karenina,04-Apr-1997
+991,Keys to Tulsa,11-Apr-1997
+992,Head Above Water,20-Jun-1997
+993,Hercules,27-Jun-1997
+994,"Last Time I Committed Suicide, The",20-Jun-1997
+995,"Kiss Me, Guido",01-Jan-1997
+996,"Big Green, The",01-Jan-1995
+997,Stuart Saves His Family,01-Jan-1995
+998,Cabin Boy,01-Jan-1994
+999,Clean Slate,01-Jan-1994
+1000,Lightning Jack,01-Jan-1994
+1001,"Stupids, The",30-Aug-1996
+1002,"Pest, The",07-Feb-1997
+1003,That Darn Cat!,14-Feb-1997
+1004,Geronimo: An American Legend,01-Jan-1993
+1005,"Double vie de Véronique, La (Double Life of Veronique, The)",01-Jan-1991
+1006,Until the End of the World (Bis ans Ende der Welt),01-Jan-1991
+1007,Waiting for Guffman,31-Jan-1997
+1008,I Shot Andy Warhol,01-May-1996
+1009,Stealing Beauty,14-Jun-1996
+1010,Basquiat,16-Aug-1996
+1011,2 Days in the Valley,27-Sep-1996
+1012,Private Parts,07-Mar-1997
+1013,Anaconda,11-Apr-1997
+1014,Romy and Michele's High School Reunion,25-Apr-1997
+1015,Shiloh,23-May-1997
+1016,Con Air,06-Jun-1997
+1017,Trees Lounge,11-Oct-1996
+1018,Tie Me Up! Tie Me Down!,01-Jan-1990
+1019,"Die xue shuang xiong (Killer, The)",01-Jan-1989
+1020,Gaslight,01-Jan-1944
+1021,8 1/2,01-Jan-1963
+1022,"Fast, Cheap & Out of Control",01-Jan-1997
+1023,Fathers' Day,09-May-1997
+1024,Mrs. Dalloway,01-Jan-1997
+1025,Fire Down Below,01-Jan-1997
+1026,"Lay of the Land, The",01-Jan-1997
+1027,"Shooter, The",01-Jan-1995
+1028,Grumpier Old Men,01-Jan-1995
+1029,Jury Duty,01-Jan-1995
+1030,"Beverly Hillbillies, The",01-Jan-1993
+1031,Lassie,01-Jan-1994
+1032,Little Big League,01-Jan-1994
+1033,Homeward Bound II: Lost in San Francisco,08-Mar-1996
+1034,"Quest, The",26-Apr-1996
+1035,Cool Runnings,01-Jan-1993
+1036,Drop Dead Fred,01-Jan-1991
+1037,Grease 2,01-Jan-1982
+1038,Switchback,01-Jan-1997
+1039,Hamlet,24-Jan-1997
+1040,Two if by Sea,01-Jan-1996
+1041,Forget Paris,01-Jan-1995
+1042,Just Cause,01-Jan-1995
+1043,Rent-a-Kid,01-Jan-1995
+1044,"Paper, The",01-Jan-1994
+1045,Fearless,01-Jan-1993
+1046,Malice,01-Jan-1993
+1047,Multiplicity,12-Jul-1996
+1048,She's the One,23-Aug-1996
+1049,House Arrest,02-Aug-1996
+1050,"Ghost and Mrs. Muir, The",01-Jan-1947
+1051,"Associate, The",19-Oct-1996
+1052,Dracula: Dead and Loving It,01-Jan-1995
+1053,Now and Then,01-Jan-1995
+1054,Mr. Wrong,16-Feb-1996
+1055,"Simple Twist of Fate, A",01-Jan-1994
+1056,Cronos,01-Jan-1992
+1057,"Pallbearer, The",19-Apr-1996
+1058,"War, The",01-Jan-1994
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,01-Jan-1996
+1060,"Adventures of Pinocchio, The",26-Jul-1996
+1061,"Evening Star, The",25-Dec-1996
+1062,Four Days in September,23-Jan-1998
+1063,"Little Princess, A",01-Jan-1995
+1064,Crossfire,01-Jan-1947
+1065,Koyaanisqatsi,01-Jan-1983
+1066,Balto,01-Jan-1995
+1067,Bottle Rocket,21-Feb-1996
+1068,"Star Maker, The (Uomo delle stelle, L')",01-Mar-1996
+1069,Amateur,01-Jan-1994
+1070,Living in Oblivion,01-Jan-1995
+1071,Party Girl,01-Jan-1995
+1072,"Pyromaniac's Love Story, A",01-Jan-1995
+1073,Shallow Grave,01-Jan-1994
+1074,Reality Bites,01-Jan-1994
+1075,"Man of No Importance, A",01-Jan-1994
+1076,"Pagemaster, The",01-Jan-1994
+1077,Love and a .45,01-Jan-1994
+1078,Oliver & Company,29-Mar-1988
+1079,Joe's Apartment,26-Jul-1996
+1080,Celestial Clockwork,12-Jul-1996
+1081,Curdled,27-Sep-1996
+1082,Female Perversions,25-Apr-1997
+1083,Albino Alligator,17-Jan-1997
+1084,Anne Frank Remembered,23-Feb-1996
+1085,Carried Away,29-Mar-1996
+1086,It's My Party,22-Mar-1996
+1087,Bloodsport 2,01-Mar-1996
+1088,Double Team,04-Apr-1997
+1089,Speed 2: Cruise Control,13-Jun-1997
+1090,Sliver,01-Jan-1993
+1091,Pete's Dragon,01-Jan-1977
+1092,Dear God,01-Nov-1996
+1093,Live Nude Girls,01-Mar-1996
+1094,"Thin Line Between Love and Hate, A",03-Apr-1996
+1095,High School High,25-Oct-1996
+1096,Commandments,02-May-1997
+1097,"Hate (Haine, La)",09-Feb-1996
+1098,Flirting With Disaster,22-Mar-1996
+1099,"Red Firecracker, Green Firecracker",01-Jan-1994
+1100,What Happened Was...,01-Jan-1994
+1101,Six Degrees of Separation,01-Jan-1993
+1102,Two Much,01-Jan-1996
+1103,Trust,01-Jan-1990
+1104,C'est arrivé près de chez vous,01-Jan-1992
+1105,Firestorm,09-Jan-1998
+1106,"Newton Boys, The",14-Mar-1998
+1107,Beyond Rangoon,01-Jan-1995
+1108,Feast of July,01-Jan-1995
+1109,Death and the Maiden,01-Jan-1994
+1110,Tank Girl,01-Jan-1995
+1111,Double Happiness,01-Mar-1996
+1112,Cobb,01-Jan-1994
+1113,Mrs. Parker and the Vicious Circle,01-Jan-1994
+1114,Faithful,03-Apr-1996
+1115,Twelfth Night,25-Oct-1996
+1116,"Mark of Zorro, The",01-Jan-1940
+1117,Surviving Picasso,20-Sep-1996
+1118,Up in Smoke,01-Jan-1978
+1119,Some Kind of Wonderful,01-Jan-1987
+1120,I'm Not Rappaport,13-Nov-1996
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",05-Apr-1996
+1122,They Made Me a Criminal,01-Jan-1939
+1123,"Last Time I Saw Paris, The",01-Jan-1954
+1124,"Farewell to Arms, A",01-Jan-1932
+1125,"Innocents, The",01-Jan-1961
+1126,"Old Man and the Sea, The",01-Jan-1958
+1127,"Truman Show, The",01-Jan-1998
+1128,Heidi Fleiss: Hollywood Madam ,09-Feb-1996
+1129,Chungking Express,16-Feb-1996
+1130,Jupiter's Wife,09-Feb-1996
+1131,Safe,01-Jan-1995
+1132,Feeling Minnesota,13-Sep-1996
+1133,Escape to Witch Mountain,01-Jan-1975
+1134,Get on the Bus,16-Oct-1996
+1135,"Doors, The",01-Jan-1991
+1136,Ghosts of Mississippi,20-Dec-1996
+1137,Beautiful Thing,09-Oct-1996
+1138,Best Men,01-Sep-1997
+1139,Hackers,01-Jan-1995
+1140,"Road to Wellville, The",01-Jan-1994
+1141,"War Room, The",01-Jan-1993
+1142,When We Were Kings,14-Feb-1997
+1143,Hard Eight,28-Feb-1997
+1144,"Quiet Room, The",02-May-1997
+1145,Blue Chips,01-Jan-1994
+1146,Calendar Girl,01-Jan-1993
+1147,My Family,01-Jan-1995
+1148,Tom & Viv,01-Jan-1994
+1149,Walkabout,20-Dec-1971
+1150,Last Dance,03-May-1996
+1151,Original Gangstas,10-May-1996
+1152,In Love and War,24-Jan-1997
+1153,Backbeat,01-Jan-1993
+1154,Alphaville,01-Jan-1965
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les)",28-Jun-1996
+1156,Cyclo,02-Aug-1996
+1157,"Relic, The",17-Jan-1997
+1158,"Fille seule, La (A Single Girl)",30-Oct-1996
+1159,Stalker,01-Jan-1979
+1160,Love! Valour! Compassion!,16-May-1997
+1161,Palookaville,25-Oct-1996
+1162,Phat Beach,02-Aug-1996
+1163,"Portrait of a Lady, The",27-Dec-1996
+1164,Zeus and Roxanne,10-Jan-1997
+1165,Big Bully,01-Jan-1996
+1166,Love & Human Remains,01-Jan-1993
+1167,"Sum of Us, The",01-Jan-1994
+1168,Little Buddha,01-Jan-1993
+1169,Fresh,01-Jan-1994
+1170,Spanking the Monkey,01-Jan-1994
+1171,Wild Reeds,01-Jan-1994
+1172,"Women, The",01-Jan-1939
+1173,Bliss,06-Jun-1997
+1174,Caught,27-Sep-1996
+1175,Hugo Pool,01-Jan-1997
+1176,Welcome To Sarajevo,01-Jan-1997
+1177,Dunston Checks In,01-Jan-1996
+1178,Major Payne,01-Jan-1994
+1179,Man of the House,01-Jan-1995
+1180,I Love Trouble,01-Jan-1994
+1181,"Low Down Dirty Shame, A",01-Jan-1994
+1182,Cops and Robbersons,01-Jan-1994
+1183,"Cowboy Way, The",01-Jan-1994
+1184,"Endless Summer 2, The",01-Jan-1994
+1185,In the Army Now,01-Jan-1994
+1186,"Inkwell, The",01-Jan-1994
+1187,Switchblade Sisters,17-May-1975
+1188,Young Guns II,01-Jan-1990
+1189,Prefontaine,24-Jan-1997
+1190,That Old Feeling,04-Apr-1997
+1191,"Letter From Death Row, A",01-Feb-1998
+1192,"Boys of St. Vincent, The",01-Jan-1993
+1193,Before the Rain (Pred dozhdot),01-Jan-1994
+1194,Once Were Warriors,01-Jan-1994
+1195,Strawberry and Chocolate (Fresa y chocolate),01-Jan-1993
+1196,"Savage Nights (Nuits fauves, Les)",01-Jan-1992
+1197,"Family Thing, A",23-Mar-1996
+1198,Purple Noon,28-Jun-1960
+1199,Cemetery Man (Dellamorte Dellamore),12-Apr-1996
+1200,Kim,01-Jan-1950
+1201,Marlene Dietrich: Shadow and Light ,02-Apr-1996
+1202,"Maybe, Maybe Not (Bewegte Mann, Der)",19-Jul-1996
+1203,Top Hat,01-Jan-1935
+1204,To Be or Not to Be,01-Jan-1942
+1205,"Secret Agent, The",08-Nov-1996
+1206,Amos & Andrew,01-Jan-1993
+1207,Jade,01-Jan-1995
+1208,Kiss of Death,01-Jan-1995
+1209,Mixed Nuts,01-Jan-1994
+1210,Virtuosity,01-Jan-1995
+1211,Blue Sky,01-Jan-1994
+1212,Flesh and Bone,01-Jan-1993
+1213,Guilty as Sin,01-Jan-1993
+1214,In the Realm of the Senses (Ai no corrida),08-Mar-1976
+1215,Barb Wire,03-May-1996
+1216,Kissed,18-Apr-1997
+1217,Assassins,01-Jan-1995
+1218,Friday,01-Jan-1995
+1219,"Goofy Movie, A",01-Jan-1995
+1220,Higher Learning,01-Jan-1995
+1221,When a Man Loves a Woman,01-Jan-1994
+1222,Judgment Night,01-Jan-1993
+1223,King of the Hill,01-Jan-1993
+1224,"Scout, The",01-Jan-1994
+1225,Angus,01-Jan-1995
+1226,Night Falls on Manhattan,16-May-1997
+1227,"Awfully Big Adventure, An",01-Jan-1995
+1228,Under Siege 2: Dark Territory,01-Jan-1995
+1229,Poison Ivy II,01-Jan-1995
+1230,Ready to Wear (Pret-A-Porter),01-Jan-1994
+1231,Marked for Death,01-Jan-1990
+1232,Madonna: Truth or Dare,01-Jan-1991
+1233,Nénette et Boni,01-Jan-1996
+1234,Chairman of the Board,01-Jan-1998
+1235,"Big Bang Theory, The",01-Jan-1994
+1236,"Other Voices, Other Rooms",01-Jan-1997
+1237,Twisted,01-Jan-1996
+1238,Full Speed,01-Jan-1996
+1239,Cutthroat Island,01-Jan-1995
+1240,Ghost in the Shell (Kokaku kidotai),12-Apr-1996
+1241,"Van, The",27-Jun-1997
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)",01-Jan-1991
+1243,Night Flier,06-Feb-1998
+1244,Metro,17-Jan-1997
+1245,Gridlock'd,29-Jan-1997
+1246,Bushwhacked,01-Jan-1995
+1247,Bad Girls,01-Jan-1994
+1248,Blink,01-Jan-1994
+1249,For Love or Money,01-Jan-1993
+1250,Best of the Best 3: No Turning Back,01-Jan-1995
+1251,A Chef in Love,25-Apr-1997
+1252,"Contempt (Mépris, Le)",27-Jun-1997
+1253,"Tie That Binds, The",01-Jan-1995
+1254,Gone Fishin',30-May-1997
+1255,Broken English,02-May-1997
+1256,"Designated Mourner, The",23-May-1997
+1257,"Designated Mourner, The",23-May-1997
+1258,Trial and Error,30-May-1997
+1259,Pie in the Sky,09-Feb-1996
+1260,Total Eclipse,01-Jan-1995
+1261,"Run of the Country, The",01-Jan-1995
+1262,Walking and Talking,12-Jul-1996
+1263,Foxfire,23-Aug-1996
+1264,Nothing to Lose,16-Aug-1996
+1265,Star Maps,01-Jan-1997
+1266,Bread and Chocolate (Pane e cioccolata),01-Jan-1973
+1267,Clockers,01-Jan-1995
+1268,Bitter Moon,01-Jan-1992
+1269,Love in the Afternoon,01-Jan-1957
+1270,Life with Mikey,01-Jan-1993
+1271,North,01-Jan-1994
+1272,Talking About Sex,01-Jan-1994
+1273,Color of Night,01-Jan-1994
+1274,Robocop 3,01-Jan-1993
+1275,Killer (Bulletproof Heart),01-Jan-1994
+1276,Sunset Park,26-Apr-1996
+1277,Set It Off,25-Sep-1996
+1278,Selena,21-Mar-1997
+1279,Wild America,04-Jul-1997
+1280,Gang Related,01-Jan-1997
+1281,Manny & Lo,26-Jul-1996
+1282,"Grass Harp, The",11-Oct-1996
+1283,Out to Sea,04-Jul-1997
+1284,Before and After,23-Feb-1996
+1285,Princess Caraboo,01-Jan-1994
+1286,Shall We Dance?,01-Jan-1937
+1287,Ed,08-Mar-1996
+1288,Denise Calls Up,29-Mar-1996
+1289,Jack and Sarah,22-Mar-1996
+1290,Country Life,01-Jan-1994
+1291,Celtic Pride,19-Apr-1996
+1292,"Simple Wish, A",11-Jul-1997
+1293,Star Kid,16-Jan-1998
+1294,Ayn Rand: A Sense of Life,13-Feb-1998
+1295,Kicked in the Head,01-Jan-1997
+1296,Indian Summer,01-Jan-1996
+1297,Love Affair,01-Jan-1994
+1298,"Band Wagon, The",01-Jan-1953
+1299,Penny Serenade,01-Jan-1941
+1300,'Til There Was You,30-May-1997
+1301,Stripes,01-Jan-1981
+1302,Late Bloomers,06-Jun-1997
+1303,"Getaway, The",01-Jan-1994
+1304,New York Cop,01-Jan-1996
+1305,National Lampoon's Senior Trip,01-Jan-1995
+1306,Delta of Venus,01-Jan-1994
+1307,Carmen Miranda: Bananas Is My Business,01-Jan-1994
+1308,Babyfever,01-Jan-1994
+1309,"Very Natural Thing, A",01-Jan-1974
+1310,"Walk in the Sun, A",01-Jan-1945
+1311,Waiting to Exhale,15-Jan-1996
+1312,"Pompatus of Love, The",26-Jul-1996
+1313,Palmetto,20-Feb-1998
+1314,Surviving the Game,01-Jan-1994
+1315,Inventing the Abbotts,04-Apr-1997
+1316,"Horse Whisperer, The",25-Dec-1997
+1317,"Journey of August King, The",22-Mar-1996
+1318,Catwalk,07-Jun-1996
+1319,"Neon Bible, The",01-Mar-1996
+1320,Homage,03-May-1996
+1321,Open Season,10-May-1996
+1322,Metisse (Café au Lait),01-Jan-1993
+1323,"Wooden Man's Bride, The (Wu Kui)",01-Jan-1994
+1324,Loaded,12-Apr-1996
+1325,August,12-Apr-1996
+1326,Boys,10-May-1996
+1327,Captives,16-Sep-1994
+1328,Of Love and Shadows,10-May-1996
+1329,"Low Life, The",10-May-1996
+1330,An Unforgettable Summer,01-Jan-1994
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The",01-Jan-1995
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud),01-Jan-1993
+1333,Midnight Dancers (Sibak),01-Jan-1994
+1334,Somebody to Love,14-Jun-1996
+1335,American Buffalo,13-Sep-1996
+1336,Kazaam,17-Jul-1996
+1337,Larger Than Life,01-Nov-1996
+1338,Two Deaths,09-Aug-1996
+1339,Stefano Quantestorie,01-Jan-1993
+1340,"Crude Oasis, The",01-Jan-1995
+1341,Hedd Wyn,01-Jan-1992
+1342,"Convent, The (Convento, O)",14-Jun-1996
+1343,Lotto Land,01-Jan-1995
+1344,"Story of Xinghua, The",01-Jan-1993
+1345,"Day the Sun Turned Cold, The (Tianguo niezi)",01-Jan-1994
+1346,Dingo,01-Jan-1992
+1347,"Ballad of Narayama, The (Narayama Bushiko)",01-Jan-1958
+1348,Every Other Weekend,01-Jan-1990
+1349,Mille bolle blu,01-Jan-1993
+1350,Crows and Sparrows,01-Jan-1949
+1351,Lover's Knot,12-Jul-1996
+1352,Shadow of Angels (Schatten der Engel),01-Jan-1976
+1353,1-900,01-Jan-1994
+1354,Venice/Venice,01-Jan-1992
+1355,Infinity,04-Oct-1996
+1356,Ed's Next Move,04-Oct-1996
+1357,For the Moment,01-Jan-1994
+1358,The Deadly Cure,16-Sep-1996
+1359,Boys in Venice,24-Sep-1996
+1360,"Sexual Life of the Belgians, The",01-Jan-1994
+1361,"Search for One-eye Jimmy, The",01-Jan-1996
+1362,American Strays,13-Sep-1996
+1363,"Leopard Son, The",27-Sep-1996
+1364,Bird of Prey,04-Oct-1996
+1365,Johnny 100 Pesos,01-Jan-1993
+1366,JLG/JLG - autoportrait de décembre,01-Jan-1994
+1367,Faust,01-Jan-1994
+1368,Mina Tannenbaum,01-Jan-1994
+1369,"Forbidden Christ, The (Cristo proibito, Il)",01-Jan-1950
+1370,I Can't Sleep (J'ai pas sommeil),01-Jan-1994
+1371,"Machine, The",01-Jan-1994
+1372,"Stranger, The",01-Jan-1994
+1373,Good Morning,4-Feb-1971
+1374,Falling in Love Again,01-Jan-1980
+1375,"Cement Garden, The",01-Jan-1993
+1376,Meet Wally Sparks,31-Jan-1997
+1377,Hotel de Love,07-Feb-1997
+1378,Rhyme & Reason,05-Mar-1997
+1379,Love and Other Catastrophes,28-Mar-1997
+1380,Hollow Reed,02-May-1997
+1381,Losing Chase,01-Jan-1996
+1382,"Bonheur, Le",16-May-1997
+1383,"Second Jungle Book: Mowgli & Baloo, The",16-May-1997
+1384,Squeeze,13-Jun-1997
+1385,Roseanna's Grave (For Roseanna),20-Jun-1997
+1386,Tetsuo II: Body Hammer,20-Jun-1997
+1387,Fall,27-Jun-1997
+1388,Gabbeh,27-Jun-1997
+1389,Mondo,27-Jun-1997
+1390,"Innocent Sleep, The",27-Jun-1997
+1391,For Ever Mozart,04-Jul-1997
+1392,"Locusts, The",01-Jan-1997
+1393,Stag,01-Jan-1997
+1394,Swept from the Sea,01-Jan-1997
+1395,Hurricane Streets,01-Jan-1998
+1396,Stonewall,26-Jul-1996
+1397,Of Human Bondage,01-Jan-1934
+1398,Anna,13-Nov-1996
+1399,Stranger in the House,01-Jan-1997
+1400,Picture Bride,01-Jan-1995
+1401,M. Butterfly,01-Jan-1993
+1402,"Ciao, Professore!",01-Jan-1993
+1403,Caro Diario (Dear Diary),01-Jan-1994
+1404,Withnail and I,01-Jan-1987
+1405,Boy's Life 2,07-Mar-1997
+1406,When Night Is Falling,01-Jan-1995
+1407,"Specialist, The",01-Jan-1994
+1408,Gordy,01-Jan-1995
+1409,"Swan Princess, The",01-Jan-1994
+1410,Harlem,01-Jan-1993
+1411,Barbarella,01-Jan-1968
+1412,Land Before Time III: The Time of the Great Giving (19,01-Jan-1995
+1413,Street Fighter,01-Jan-1994
+1414,Coldblooded,01-Jan-1995
+1415,"Next Karate Kid, The",01-Jan-1994
+1416,No Escape,01-Jan-1994
+1417,"Turning, The",02-May-1997
+1418,"Joy Luck Club, The",01-Jan-1993
+1419,Highlander III: The Sorcerer,01-Jan-1994
+1420,Gilligan's Island: The Movie,01-Jan-1997
+1421,My Crazy Life (Mi vida loca),01-Jan-1993
+1422,Suture,01-Jan-1993
+1423,"Walking Dead, The",01-Jan-1995
+1424,I Like It Like That,01-Jan-1994
+1425,I'll Do Anything,01-Jan-1994
+1426,Grace of My Heart,13-Sep-1996
+1427,Drunks,01-Nov-1996
+1428,SubUrbia,07-Feb-1997
+1429,Sliding Doors,01-Jan-1998
+1430,Ill Gotten Gains,01-Jan-1997
+1431,Legal Deceit,01-Jan-1997
+1432,"Mighty, The",09-Oct-1998
+1433,Men of Means,01-Jan-1997
+1434,Shooting Fish,16-Jan-1998
+1435,"Steal Big, Steal Little",01-Jan-1995
+1436,Mr. Jones,01-Jan-1993
+1437,House Party 3,01-Jan-1994
+1438,Panther,01-Jan-1995
+1439,Jason's Lyric,01-Jan-1994
+1440,Above the Rim,01-Jan-1994
+1441,Moonlight and Valentino,01-Jan-1995
+1442,"Scarlet Letter, The",01-Jan-1995
+1443,8 Seconds,01-Jan-1994
+1444,That Darn Cat!,01-Jan-1965
+1445,Ladybird Ladybird,01-Jan-1994
+1446,"Bye Bye, Love",01-Jan-1995
+1447,Century,01-Jan-1993
+1448,My Favorite Season,19-Apr-1996
+1449,Pather Panchali,22-Mar-1996
+1450,Golden Earrings,01-Jan-1947
+1451,Foreign Correspondent,01-Jan-1940
+1452,Lady of Burlesque,01-Jan-1943
+1453,Angel on My Shoulder,01-Jan-1946
+1454,Angel and the Badman,01-Jan-1947
+1455,"Outlaw, The",01-Jan-1943
+1456,Beat the Devil,01-Jan-1954
+1457,Love Is All There Is,11-Oct-1996
+1458,"Damsel in Distress, A",01-Jan-1937
+1459,Madame Butterfly,20-Sep-1996
+1460,Sleepover,25-Oct-1996
+1461,Here Comes Cookie,01-Jan-1935
+1462,"Thieves (Voleurs, Les)",25-Dec-1996
+1463,"Boys, Les",01-Jan-1997
+1464,"Stars Fell on Henrietta, The",01-Jan-1995
+1465,Last Summer in the Hamptons,01-Jan-1995
+1466,Margaret's Museum,01-Jan-1995
+1467,"Saint of Fort Washington, The",01-Jan-1993
+1468,"Cure, The",01-Jan-1995
+1469,Tom and Huck,01-Jan-1995
+1470,Gumby: The Movie,01-Jan-1995
+1471,Hideaway,01-Jan-1995
+1472,"Visitors, The (Visiteurs, Les)",19-Jul-1996
+1473,"Little Princess, The",01-Jan-1939
+1474,Nina Takes a Lover,01-Jan-1994
+1475,Bhaji on the Beach,01-Jan-1993
+1476,Raw Deal,01-Jan-1948
+1477,Nightwatch,22-Apr-1997
+1478,Dead Presidents,01-Jan-1995
+1479,Reckless,01-Jan-1995
+1480,Herbie Rides Again,01-Jan-1974
+1481,S.F.W.,01-Jan-1994
+1482,"Gate of Heavenly Peace, The",10-May-1996
+1483,"Man in the Iron Mask, The",17-Mar-1998
+1484,"Jerky Boys, The",01-Jan-1994
+1485,"Colonel Chabert, Le",01-Jan-1994
+1486,Girl in the Cadillac,01-Jan-1995
+1487,Even Cowgirls Get the Blues,01-Jan-1993
+1488,Germinal,01-Jan-1993
+1489,Chasers,01-Jan-1994
+1490,Fausto,01-Jan-1993
+1491,Tough and Deadly,01-Jan-1995
+1492,Window to Paris,01-Jan-1994
+1493,"Modern Affair, A",06-Sep-1996
+1494,"Mostro, Il",19-Apr-1996
+1495,Flirt,07-Aug-1996
+1496,Carpool,23-Aug-1996
+1497,"Line King: Al Hirschfeld, The",11-Oct-1996
+1498,Farmer & Chase,10-Jan-1997
+1499,Grosse Fatigue,01-Jan-1994
+1500,Santa with Muscles,08-Nov-1996
+1501,Prisoner of the Mountains (Kavkazsky Plennik),31-Jan-1997
+1502,Naked in New York,01-Jan-1994
+1503,Gold Diggers: The Secret of Bear Mountain,01-Jan-1995
+1504,"Bewegte Mann, Der",12-Jul-1996
+1505,Killer: A Journal of Murder,06-Sep-1996
+1506,Nelly & Monsieur Arnaud,12-Apr-1996
+1507,Three Lives and Only One Death,11-Oct-1996
+1508,"Babysitter, The",01-Jan-1995
+1509,Getting Even with Dad,01-Jan-1994
+1510,Mad Dog Time,08-Nov-1996
+1511,Children of the Revolution,01-May-1997
+1512,"World of Apu, The (Apur Sansar)",05-Apr-1996
+1513,Sprung,14-May-1997
+1514,Dream With the Fishes,20-Jun-1997
+1515,Wings of Courage,01-Jan-1995
+1516,"Wedding Gift, The",01-Jan-1994
+1517,Race the Sun,01-Jan-1996
+1518,Losing Isaiah,01-Jan-1995
+1519,New Jersey Drive,01-Jan-1995
+1520,"Fear, The",01-Jan-1995
+1521,Mr. Wonderful,01-Jan-1993
+1522,Trial by Jury,01-Jan-1994
+1523,"Good Man in Africa, A",01-Jan-1994
+1524,Kaspar Hauser,07-Jun-1996
+1525,"Object of My Affection, The",20-Mar-1998
+1526,Witness,01-Jan-1985
+1527,Senseless,09-Jan-1998
+1528,Nowhere,09-May-1997
+1529,Underground,29-Mar-1996
+1530,Jefferson in Paris,01-Jan-1995
+1531,Far From Home: The Adventures of Yellow Dog,01-Jan-1995
+1532,Foreign Student,01-Jan-1994
+1533,I Don't Want to Talk About It (De eso no se habla),01-Jan-1993
+1534,Twin Town,30-May-1997
+1535,"Enfer, L'",01-Jan-1994
+1536,Aiqing wansui,22-Jul-1996
+1537,Cosi,11-Apr-1997
+1538,All Over Me,25-Apr-1997
+1539,Being Human,01-Jan-1993
+1540,"Amazing Panda Adventure, The",01-Jan-1995
+1541,"Beans of Egypt, Maine, The",01-Jan-1994
+1542,"Scarlet Letter, The",01-Jan-1926
+1543,Johns,18-Oct-1996
+1544,It Takes Two,01-Jan-1995
+1545,Frankie Starlight,01-Jan-1995
+1546,Shadows (Cienie),01-Jan-1988
+1547,"Show, The",01-Jan-1995
+1548,The Courtyard,01-Jan-1995
+1549,Dream Man,01-Jan-1995
+1550,Destiny Turns on the Radio,01-Jan-1995
+1551,"Glass Shield, The",01-Jan-1994
+1552,"Hunted, The",01-Jan-1995
+1553,"Underneath, The",01-Jan-1995
+1554,Safe Passage,01-Jan-1994
+1555,"Secret Adventures of Tom Thumb, The",01-Jan-1993
+1556,Condition Red,01-Jan-1995
+1557,Yankee Zulu,16-Feb-1996
+1558,Aparajito,29-Mar-1996
+1559,Hostile Intentions,01-Jan-1994
+1560,Clean Slate (Coup de Torchon),01-Jan-1981
+1561,Tigrero: A Film That Was Never Made,01-Jan-1994
+1562,"Eye of Vichy, The (Oeil de Vichy, L')",01-Jan-1993
+1563,"Promise, The (Versprechen, Das)",01-Jan-1994
+1564,To Cross the Rubicon,01-Jan-1991
+1565,Daens,01-Jan-1992
+1566,"Man from Down Under, The",01-Jan-1943
+1567,Careful,01-Jan-1992
+1568,Vermont Is For Lovers,01-Jan-1992
+1569,"Vie est belle, La (Life is Rosey)",01-Jan-1987
+1570,Quartier Mozart,01-Jan-1992
+1571,Touki Bouki (Journey of the Hyena),01-Jan-1973
+1572,Wend Kuuni (God's Gift),01-Jan-1982
+1573,Spirits of the Dead (Tre passi nel delirio),01-Jan-1968
+1574,Pharaoh's Army,01-Jan-1995
+1575,"I, Worst of All (Yo, la peor de todas)",01-Jan-1990
+1576,"Hungarian Fairy Tale, A",01-Jan-1987
+1577,"Death in the Garden (Mort en ce jardin, La)",01-Jan-1956
+1578,"Collectionneuse, La",01-Jan-1967
+1579,Baton Rouge,01-Jan-1988
+1580,Liebelei,01-Jan-1933
+1581,"Woman in Question, The",01-Jan-1950
+1582,T-Men,01-Jan-1947
+1583,"Invitation, The (Zaproszenie)",01-Jan-1986
+1584,"Symphonie pastorale, La",01-Jan-1946
+1585,American Dream,01-Jan-1990
+1586,Lashou shentan,01-Jan-1992
+1587,Terror in a Texas Town,01-Jan-1958
+1588,Salut cousin!,21-Feb-1997
+1589,Schizopolis,23-May-1997
+1590,"To Have, or Not",06-Jun-1997
+1591,Duoluo tianshi,21-Jan-1998
+1592,"Magic Hour, The",30-Jan-1998
+1593,Death in Brunswick,16-Aug-1996
+1594,Everest,10-Mar-1998
+1595,Shopping,09-Feb-1996
+1596,Nemesis 2: Nebula,01-Jan-1995
+1597,Romper Stomper,01-Jan-1992
+1598,City of Industry,14-Mar-1997
+1599,Someone Else's America,10-May-1996
+1600,Guantanamera,16-May-1997
+1601,Office Killer,01-Jan-1997
+1602,"Price Above Rubies, A",20-Mar-1998
+1603,Angela,16-Feb-1996
+1604,He Walked by Night,01-Jan-1948
+1605,Love Serenade,11-Jul-1997
+1606,Deceiver,01-Jan-1997
+1607,Hurricane Streets,01-Jan-1998
+1608,Buddy,06-Jun-1997
+1609,B*A*P*S,28-Mar-1997
+1610,"Truth or Consequences, N.M.",02-May-1997
+1611,Intimate Relations,09-May-1997
+1612,"Leading Man, The",16-Jan-1998
+1613,Tokyo Fist,11-Feb-1998
+1614,"Reluctant Debutante, The",01-Jan-1958
+1615,Warriors of Virtue,02-May-1997
+1616,Desert Winds,01-Jan-1995
+1617,Hugo Pool,01-Jan-1997
+1618,King of New York,01-Jan-1990
+1619,All Things Fair,08-Mar-1996
+1620,"Sixth Man, The",28-Mar-1997
+1621,Butterfly Kiss,26-Apr-1996
+1622,"Paris, France",01-Jan-1993
+1623,"Cérémonie, La",20-Dec-1996
+1624,Hush,10-Mar-1998
+1625,Nightwatch,22-Apr-1997
+1626,Nobody Loves Me (Keiner liebt mich),09-Feb-1996
+1627,"Wife, The",26-Jul-1996
+1628,Lamerica,01-Jan-1994
+1629,Nico Icon,01-Jan-1995
+1630,"Silence of the Palace, The (Saimt el Qusur)",02-Feb-1996
+1631,"Slingshot, The",01-Jan-1993
+1632,Land and Freedom (Tierra y libertad),29-Mar-1996
+1633,Á köldum klaka (Cold Fever),08-Mar-1996
+1634,Etz Hadomim Tafus (Under the Domin Tree),19-Apr-1996
+1635,Two Friends ,26-Apr-1986
+1636,Brothers in Trouble,26-Apr-1996
+1637,Girls Town,23-Aug-1996
+1638,Normal Life,25-Oct-1996
+1639,Bitter Sugar (Azucar Amargo),22-Nov-1996
+1640,"Eighth Day, The",01-Nov-1996
+1641,Dadetown,18-Sep-1996
+1642,Some Mother's Son,27-Dec-1996
+1643,Angel Baby,10-Jan-1997
+1644,Sudden Manhattan,13-Jun-1997
+1645,"Butcher Boy, The",01-Jan-1998
+1646,Men With Guns,06-Mar-1998
+1647,Hana-bi,20-Mar-1998
+1648,"Niagara, Niagara",20-Mar-1998
+1649,"Big One, The",27-Mar-1998
+1650,"Butcher Boy, The",01-Jan-1998
+1651,"Spanish Prisoner, The",27-Mar-1998
+1652,Temptress Moon (Feng Yue),13-Jun-1997
+1653,Entertaining Angels: The Dorothy Day Story,27-Sep-1996
+1654,Chairman of the Board,01-Jan-1998
+1655,"Favor, The",01-Jan-1994
+1656,Little City,20-Feb-1998
+1657,Target,28-Feb-1996
+1658,"Substance of Fire, The",06-Dec-1996
+1659,Getting Away With Murder,12-Apr-1996
+1660,Small Faces,09-Aug-1996
+1661,"New Age, The",01-Jan-1994
+1662,Rough Magic,30-May-1997
+1663,Nothing Personal,30-Apr-1997
+1664,8 Heads in a Duffel Bag,18-Apr-1997
+1665,"Brother's Kiss, A",25-Apr-1997
+1666,Ripe,02-May-1997
+1667,"Next Step, The",13-Jun-1997
+1668,Wedding Bell Blues,13-Jun-1997
+1669,MURDER and murder,20-Jun-1997
+1670,Tainted,01-Feb-1998
+1671,"Further Gesture, A",20-Feb-1998
+1672,Kika,01-Jan-1993
+1673,Mirage,01-Jan-1995
+1674,Mamma Roma,01-Jan-1962
+1675,"Sunchaser, The",25-Oct-1996
+1676,"War at Home, The",01-Jan-1996
+1677,Sweet Nothing,20-Sep-1996
+1678,Mat' i syn,06-Feb-1998
+1679,B. Monkey,06-Feb-1998
+1680,Sliding Doors,01-Jan-1998
+1681,You So Crazy,01-Jan-1994
+1682,Scream of Stone (Schrei aus Stein),08-Mar-1996
