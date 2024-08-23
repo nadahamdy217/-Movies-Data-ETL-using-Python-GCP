@@ -10,28 +10,30 @@ Welcome to the ETL Movies Data Project! 🌟 This project is a deep dive into bu
 
 Here’s how our project is organized:
 
-ETL_MOVIES/
-│
-├── data/ # Where all the magic data lives! 🎩
-│ ├── ratings.csv # contains rated
-│ ├── movies.csv #contains information about movies
-│ ├── full_data.csv # The preprocessed movie data file 🗃│
-├── Dockerfile # Our recipe for the Docker environment 📦
-├── requirements.txt # All the ingredients (dependencies) 🛠
-├── README.md # This very guide you’re reading! 📚
+### `ETL_MOVIES/`
+- **`data/`**                           # Where all the magic data lives! 🎩
+  - **`ratings.csv`**                 # Contains rated movie data 📊
+  - **`movies.csv`**                  # Contains information about movies 🎥
+  - **`full_data.csv`**               # The preprocessed movie data file 🗃
 
-└── Scripts/ # Scripts to automate various tasks 🎛
-├── setup_env.bat # Environment setup script ⚙️
-├── download_data.bat # Data download script ⬇️
-├── start_emulator.py # Start the Pub/Sub emulator 🚀
-├── create_topic_subscription.py # Create Pub/Sub topic and subscription 📝
-├── publish_test_message.py # Test data ingestion 🧪
-├── process_data.py # Extract CSV files 📂
-├── preprocessing_data.py # Clean up the data 🧼
-└── publish_data.py # Publish data to the container 🚚
+- **`Dockerfile`**                    # Our recipe for the Docker environment 📦
 
+- **`requirements.txt`**              # All the ingredients (dependencies) 🛠
 
----
+- **`README.md`**                     # This very guide you’re reading! 📚
+
+- **`Scripts/`**                      # Scripts to automate various tasks 🎛
+  - **`setup_env.bat`**               # Environment setup script ⚙️
+  - **`download_data.bat`**           # Data download script ⬇️
+  - **`start_emulator.py`**           # Start the Pub/Sub emulator 🚀
+  - **`create_topic_subscription.py`** # Create Pub/Sub topic and subscription 📝
+  - **`publish_test_message.py`**     # Test data ingestion 🧪
+  - **`process_data.py`**             # Extract CSV files 📂
+  - **`preprocessing_data.py`**       # Clean up the data 🧼
+  - **`publish_data.py`**             # Publish data to the container 🚚
+
+Feel free to explore each part of the project to understand its role and how everything fits together. Happy coding! 👩‍💻👨‍💻
+
 
 ## **🔧 Tools and Technologies**
 
