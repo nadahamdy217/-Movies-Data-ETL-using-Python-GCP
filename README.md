@@ -191,3 +191,15 @@ This project is a full demonstration of how to build a robust ETL pipeline, comp
 ## **📂 Repository**
 
 Find everything you need in our [GitHub repository](https://github.com/nadahamdy217/Movies-Data-ETL-using-Python-GCP/tree/main). Dive in, explore, and feel free to contribute! 🎁
+
+---
+
+## **Contributing**
+
+We welcome contributions to this project! If you’d like to contribute or have any questions, please contact:
+
+- **Author:** [Nada Hamdy Fatehy]
+- **Email:** [nadahamdy2172002@gmail.com]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nada-hamdy-2265692a3/)
+- **GitHub:** [GitHub](https://github.com/nadahamdy217)
+
