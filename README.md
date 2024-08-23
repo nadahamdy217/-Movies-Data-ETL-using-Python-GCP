@@ -199,7 +199,7 @@ Find everything you need in our [GitHub repository](https://github.com/nadahamdy
 We welcome contributions to this project! If you’d like to contribute or have any questions, please contact:
 
 - **Author:** [Nada Hamdy Fatehy]
-- **Email:** [nadahamdy2172002@gmail.com]
+- **Email:** nadahamdy2172002@gmail.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nada-hamdy-2265692a3/)
 - **GitHub:** [GitHub](https://github.com/nadahamdy217)
 
