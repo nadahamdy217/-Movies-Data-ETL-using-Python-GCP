@@ -182,7 +182,7 @@ Google Cloud Pub/Sub is all about handling data in real-time, and this project, 
 
 ## **🎉 Conclusion**
 
-This project is a full demonstration of how to build a robust ETL pipeline, complete with Dockerization and cloud simulations. Whether you’re here to learn or to build, this project has all the tools and guidance you need. Happy coding! 👩‍💻👨‍💻
+This project fully demonstrates how to build a robust ETL pipeline, complete with Dockerization and cloud simulations. Whether you’re here to learn or to build, this project has all the tools and guidance you need. Happy coding! 👩‍💻👨‍💻
 
 
 
@@ -196,9 +196,9 @@ Find everything you need in our [GitHub repository](https://github.com/nadahamdy
 
 ## **Contributing**
 
-We welcome contributions to this project! If you’d like to contribute or have any questions, please contact:
+Contributions are welcomed to this project! If you’d like to contribute or have any questions, please contact:
 
-- **Author:** [Nada Hamdy Fatehy]
+- **Author:** Nada Hamdy Fatehy
 - **Email:** nadahamdy2172002@gmail.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nada-hamdy-2265692a3/)
 - **GitHub:** [GitHub](https://github.com/nadahamdy217)
