@@ -52,7 +52,7 @@ Ready to get started? Here’s what you need to do:
 
 1. **Install Required Tools:**
    - Docker Desktop
-   - Python 3.x
+   - Python 3.12.5
    - Google Cloud SDK
 
 2. **Clone the Repository:**
